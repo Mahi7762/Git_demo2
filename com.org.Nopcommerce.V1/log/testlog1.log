@@ -1,0 +1,368 @@
+2021-12-28 17:22:16,043 [main] INFO LT_Logger - Login functionality verified..
+2021-12-28 17:22:24,429 [main] INFO LT_Logger - New customer added successfully
+2021-12-28 17:22:26,802 [main] INFO LT_Logger - New customer added successfully
+2021-12-28 17:54:25,747 [main] INFO LT_Logger - Login functionality verified..
+2021-12-28 17:54:29,367 [main] INFO LT_Logger - New customer added successfully
+2021-12-28 17:54:31,364 [main] INFO LT_Logger - New customer added successfully
+2021-12-28 17:56:21,647 [main] INFO LT_Logger - Login functionality verified..
+2021-12-28 17:56:23,690 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-28 18:56:11,565 [main] INFO LT_Logger - Login functionality verified..
+2021-12-28 18:56:13,609 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-29 16:05:10,555 [main] INFO LT_Logger - Login functionality verified..
+2021-12-29 16:05:12,600 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-29 18:49:48,421 [main] INFO LT_Logger - Login functionality verified..
+2021-12-29 18:49:50,505 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 00:01:30,964 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:01:33,011 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 00:07:42,043 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:07:45,386 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:07:47,106 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:09:41,094 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:23:22,212 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:27:52,734 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:27:56,626 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:28:04,529 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:28:51,759 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:28:55,442 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:28:57,335 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:29:36,428 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:29:38,481 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 00:31:30,045 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:31:32,087 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 00:33:25,894 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:33:31,136 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:33:33,065 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:45:16,906 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:45:20,364 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:45:22,170 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:54:02,443 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 00:54:06,226 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 00:54:08,082 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 01:00:09,021 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 01:00:11,065 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 01:00:21,146 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 01:00:24,455 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 01:00:26,233 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 01:01:46,232 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 01:01:48,276 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 01:03:19,178 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 01:03:21,223 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 01:04:50,942 [TestNG-test=Test-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 01:04:52,963 [TestNG-test=Test-1] INFO LT_Logger - Title of the Application get verified
+2021-12-30 09:24:02,578 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:24:04,625 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 09:27:09,278 [TestNG-test=Test-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:27:11,319 [TestNG-test=Test-1] INFO LT_Logger - Title of the Application get verified
+2021-12-30 09:27:21,960 [TestNG-test=Test2-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:27:25,425 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 09:27:30,429 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 09:36:05,808 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:36:07,858 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 09:49:17,364 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:49:19,406 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 09:50:23,606 [TestNG-test=Test-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:50:25,649 [TestNG-test=Test-1] INFO LT_Logger - Title of the Application get verified
+2021-12-30 09:50:35,865 [TestNG-test=Test2-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 09:50:39,498 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 09:50:41,274 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 10:00:22,888 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 10:00:24,926 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 10:03:07,485 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 10:03:09,538 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 10:04:10,301 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 10:04:12,344 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 10:36:23,667 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 10:36:25,715 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:29:32,484 [TestNG-test=Test-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:29:34,524 [TestNG-test=Test-1] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:29:34,590 [TestNG-test=Test-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 15:29:43,567 [TestNG-test=Test2-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:29:47,252 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 15:29:52,223 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 15:34:24,646 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:34:28,134 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 15:34:30,085 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 15:39:07,234 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:39:09,276 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:39:09,349 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 15:41:53,037 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:41:56,571 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 15:41:58,421 [main] INFO LT_Logger - Second customer added successfully
+2021-12-30 15:45:39,955 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:45:43,580 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 15:45:45,217 [main] INFO LT_Logger - Second customer added successfully
+2021-12-30 15:46:59,488 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:47:01,535 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:47:01,614 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 15:50:04,938 [TestNG-test=Test-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:50:06,978 [TestNG-test=Test-1] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:50:07,051 [TestNG-test=Test-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 15:50:16,977 [TestNG-test=Test2-1] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:50:21,087 [TestNG-test=Test2-1] INFO LT_Logger - New customer added successfully
+2021-12-30 15:50:22,903 [TestNG-test=Test2-1] INFO LT_Logger - Second customer added successfully
+2021-12-30 15:52:19,683 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:52:23,655 [main] INFO LT_Logger - New customer added successfully
+2021-12-30 15:52:25,683 [main] INFO LT_Logger - Second customer added successfully
+2021-12-30 15:54:29,837 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:54:31,888 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:54:31,975 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 15:58:13,223 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 15:58:15,272 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 15:58:15,377 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 16:02:21,928 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 16:02:23,971 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 16:02:24,048 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 18:07:46,632 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 18:07:48,676 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 18:07:48,751 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 18:09:49,015 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 18:09:51,058 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 18:09:51,139 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 18:18:45,907 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 21:38:47,968 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 21:38:50,021 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 21:38:50,102 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 21:42:30,325 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 21:42:32,372 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 21:42:32,452 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 22:03:56,898 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 22:03:58,946 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 22:03:59,015 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 22:50:03,459 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 22:50:05,502 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 22:50:05,579 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 23:04:11,574 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 23:04:13,619 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 23:04:13,699 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 23:13:50,678 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 23:13:52,731 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 23:13:52,798 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 23:21:17,083 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 23:21:19,131 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 23:21:19,204 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 23:24:39,321 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 23:24:41,365 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 23:24:41,437 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 23:32:03,525 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 23:32:05,580 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 23:32:05,651 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-30 23:45:50,050 [main] INFO LT_Logger - Login functionality verified..
+2021-12-30 23:45:52,099 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-30 23:45:52,164 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 06:47:55,630 [main] INFO LT_Logger - Login functionality verified..
+2021-12-31 06:47:57,663 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-31 06:47:57,729 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:01:51,921 [main] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:01:53,962 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:01:54,037 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:04:14,606 [main] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:04:16,648 [main] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:04:16,731 [main] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:19:58,523 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:19:58,724 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:20:00,559 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:20:00,639 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:20:00,739 [TestNG-tests-2] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:20:00,787 [TestNG-tests-2] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:29:31,245 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:29:33,281 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:29:33,352 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:29:33,556 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:29:35,570 [TestNG-tests-2] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:29:35,623 [TestNG-tests-2] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 07:41:32,857 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:41:34,283 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 07:41:36,298 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 07:41:36,363 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 08:07:16,616 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:07:18,068 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:07:18,670 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 08:07:18,763 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 08:07:22,873 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2021-12-31 08:07:24,855 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2021-12-31 08:12:56,498 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:12:57,993 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:12:58,533 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 08:12:58,639 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 08:13:02,088 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2021-12-31 08:13:04,133 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2021-12-31 08:24:07,368 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:24:09,407 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 08:24:09,568 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 08:24:09,736 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:24:11,907 [TestNG-tests-2] INFO LT_Logger - Title of the Application get verified
+2021-12-31 08:24:11,982 [TestNG-tests-2] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 08:27:54,508 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:27:54,601 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 08:27:56,542 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 08:27:56,627 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 08:27:59,570 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2021-12-31 08:28:04,702 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2021-12-31 09:31:24,170 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2021-12-31 09:31:25,309 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2021-12-31 09:31:26,207 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2021-12-31 09:31:26,295 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2021-12-31 09:31:27,324 [TestNG-tests-2] INFO LT_Logger - Title of the Application get verified
+2021-12-31 09:31:27,408 [TestNG-tests-2] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 12:19:07,709 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 12:19:07,905 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 12:19:09,745 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 12:19:09,847 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 12:19:14,402 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 12:19:19,243 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 12:31:24,042 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 12:31:24,479 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 12:31:26,085 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 12:31:26,185 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 12:31:28,896 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 12:31:31,228 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:12:39,744 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:12:40,122 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:12:42,139 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:12:42,234 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:12:44,064 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:12:46,841 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:13:43,645 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:13:44,130 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:13:45,687 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:13:45,825 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:13:49,499 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:13:52,328 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:20:22,259 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:20:22,399 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:20:24,362 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:20:24,508 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:20:28,076 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:20:33,396 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:25:18,447 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:25:19,297 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:25:20,498 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:25:20,619 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:25:23,669 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:25:25,806 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:30:19,233 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:30:19,298 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:30:21,315 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:30:21,400 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:30:23,396 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:30:25,180 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:35:20,264 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:35:20,324 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:35:22,312 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:35:22,409 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:35:24,221 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:35:26,370 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:40:21,170 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:40:22,566 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:40:24,597 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:40:24,683 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:40:26,053 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:40:28,255 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:45:19,597 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:45:19,769 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:45:21,652 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:45:21,777 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:45:24,703 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:45:27,359 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:50:24,997 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:50:26,332 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:50:27,054 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:50:27,215 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:50:32,101 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:50:34,769 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 13:55:20,473 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:55:20,980 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 13:55:22,533 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 13:55:22,633 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 13:55:25,926 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 13:55:28,029 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:00:20,927 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:00:21,037 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:00:22,967 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:00:23,064 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:00:25,657 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:00:28,093 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:05:19,106 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:05:20,545 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:05:22,578 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:05:22,709 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:05:23,690 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:05:25,736 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:09:42,453 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:09:43,811 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:09:44,508 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:09:44,612 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:09:47,962 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:09:50,203 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:10:20,257 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:10:20,632 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:10:22,302 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:10:22,412 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:10:24,943 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:10:27,262 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:15:19,900 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:15:20,231 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:15:21,949 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:15:22,079 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:15:24,692 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:15:27,248 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:20:20,035 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:20:20,158 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:20:22,077 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:20:22,198 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:20:24,333 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:20:30,487 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:25:19,291 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:25:19,837 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:25:21,343 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:25:21,431 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:25:23,816 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:25:25,881 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:30:19,410 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:30:20,049 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:30:21,449 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:30:21,559 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:30:24,448 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:30:27,119 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:35:19,994 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:35:20,444 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:35:22,043 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:35:22,141 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:35:25,078 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:35:27,054 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:40:19,405 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:40:19,690 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:40:21,712 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:40:21,861 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:40:23,712 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:40:25,597 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 14:45:23,225 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:45:23,582 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 14:45:25,619 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 14:45:25,747 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 14:45:28,721 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 14:45:30,886 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 15:20:18,969 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 15:20:20,574 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 15:20:21,046 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 15:20:21,147 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 15:20:25,002 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 15:20:31,529 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 15:45:19,260 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 15:45:19,695 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 15:45:21,308 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 15:45:21,406 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 15:45:23,900 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 15:45:25,700 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-07 16:20:19,252 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-07 16:20:19,284 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-07 16:20:21,304 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-07 16:20:21,395 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-07 16:20:26,822 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-07 16:20:31,813 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully
+2022-01-13 08:10:49,312 [TestNG-tests-2] INFO LT_Logger - Login functionality verified..
+2022-01-13 08:10:49,441 [TestNG-tests-1] INFO LT_Logger - Login functionality verified..
+2022-01-13 08:10:51,491 [TestNG-tests-1] INFO LT_Logger - Title of the Application get verified
+2022-01-13 08:10:51,569 [TestNG-tests-1] INFO LT_Logger - Logo of the Apllication verified
+2022-01-13 08:10:55,099 [TestNG-tests-2] INFO LT_Logger - New customer added successfully
+2022-01-13 08:10:58,346 [TestNG-tests-2] INFO LT_Logger - Second customer added successfully

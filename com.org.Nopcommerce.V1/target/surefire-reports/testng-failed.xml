@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="utility.Transformer_Listener"/>
+  </listeners>
+  <test thread-count="2" verbose="0" name="edgeTest(failed)" parallel="tests">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="Nopcommerce_test.Addnew_customer">
+        <methods>
+          <include name="login"/>
+          <include name="endReport"/>
+          <include name="startReport"/>
+          <include name="closeApp"/>
+          <include name="Add_new_customer1"/>
+          <include name="Add_new_customer"/>
+          <include name="customer_sec"/>
+          <include name="lanunchApp"/>
+          <include name="logout"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Nopcommerce_test.Addnew_customer -->
+    </classes>
+  </test> <!-- edgeTest(failed) -->
+  <test thread-count="2" verbose="0" name="chromeTest(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Nopcommerce_test.Logintest">
+        <methods>
+          <include name="login"/>
+          <include name="verifyLogo"/>
+          <include name="endReport"/>
+          <include name="verifyTitle"/>
+          <include name="startReport"/>
+          <include name="closeApp"/>
+          <include name="logout"/>
+          <include name="lanunchApp"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- Nopcommerce_test.Logintest -->
+    </classes>
+  </test> <!-- chromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

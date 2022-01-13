@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25655" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:36 IST">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="15422" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:25 IST">
+      <class name="Nopcommerce_test.Logintest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="startReport" is-config="true" duration-ms="204" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="lanunchApp(java.lang.String)[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="lanunchApp" is-config="true" duration-ms="4577" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanunchApp -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Nopcommerce_test.Logintest@887af79]" name="login" duration-ms="4098" started-at="2022-01-07T16:20:15 IST" finished-at="2022-01-07T16:20:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyTitle()[pri:2, instance:Nopcommerce_test.Logintest@887af79]" name="verifyTitle" duration-ms="2017" started-at="2022-01-07T16:20:19 IST" finished-at="2022-01-07T16:20:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="getResult" is-config="true" duration-ms="0" started-at="2022-01-07T16:20:19 IST" finished-at="2022-01-07T16:20:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=Logintest.login()[pri:1, instance:Nopcommerce_test.Logintest@887af79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="getResult" is-config="true" duration-ms="0" started-at="2022-01-07T16:20:21 IST" finished-at="2022-01-07T16:20:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=Logintest.verifyTitle()[pri:2, instance:Nopcommerce_test.Logintest@887af79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="verifyLogo()[pri:3, instance:Nopcommerce_test.Logintest@887af79]" name="verifyLogo" duration-ms="90" started-at="2022-01-07T16:20:21 IST" finished-at="2022-01-07T16:20:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="logout()[pri:4, instance:Nopcommerce_test.Logintest@887af79]" name="logout" duration-ms="701" started-at="2022-01-07T16:20:21 IST" finished-at="2022-01-07T16:20:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="getResult" is-config="true" duration-ms="0" started-at="2022-01-07T16:20:21 IST" finished-at="2022-01-07T16:20:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogo status=SUCCESS method=Logintest.verifyLogo()[pri:3, instance:Nopcommerce_test.Logintest@887af79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="getResult" is-config="true" duration-ms="2" started-at="2022-01-07T16:20:22 IST" finished-at="2022-01-07T16:20:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logout status=SUCCESS method=Logintest.logout()[pri:4, instance:Nopcommerce_test.Logintest@887af79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="closeApp" is-config="true" duration-ms="3228" started-at="2022-01-07T16:20:22 IST" finished-at="2022-01-07T16:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Nopcommerce_test.Logintest@887af79]" name="endReport" is-config="true" duration-ms="477" started-at="2022-01-07T16:20:25 IST" finished-at="2022-01-07T16:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Nopcommerce_test.Logintest -->
+    </test> <!-- chromeTest -->
+    <test name="edgeTest" duration-ms="25655" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:36 IST">
+      <class name="Nopcommerce_test.Addnew_customer">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="startReport" is-config="true" duration-ms="204" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="lanunchApp(java.lang.String)[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="lanunchApp" is-config="true" duration-ms="4185" started-at="2022-01-07T16:20:10 IST" finished-at="2022-01-07T16:20:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanunchApp -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="login" duration-ms="4447" started-at="2022-01-07T16:20:14 IST" finished-at="2022-01-07T16:20:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="getResult" is-config="true" duration-ms="12" started-at="2022-01-07T16:20:19 IST" finished-at="2022-01-07T16:20:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=Addnew_customer.login()[pri:1, instance:Nopcommerce_test.Addnew_customer@30b8a058] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="customer_sec()[pri:2, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="customer_sec" duration-ms="5575" started-at="2022-01-07T16:20:19 IST" finished-at="2022-01-07T16:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_sec -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="getResult" is-config="true" duration-ms="2" started-at="2022-01-07T16:20:24 IST" finished-at="2022-01-07T16:20:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customer_sec status=SUCCESS method=Addnew_customer.customer_sec()[pri:2, instance:Nopcommerce_test.Addnew_customer@30b8a058] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Add_new_customer()[pri:3, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="Add_new_customer" duration-ms="1969" started-at="2022-01-07T16:20:24 IST" finished-at="2022-01-07T16:20:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_new_customer -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="getResult" is-config="true" duration-ms="0" started-at="2022-01-07T16:20:26 IST" finished-at="2022-01-07T16:20:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_new_customer status=SUCCESS method=Addnew_customer.Add_new_customer()[pri:3, instance:Nopcommerce_test.Addnew_customer@30b8a058] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Add_new_customer1()[pri:4, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="Add_new_customer1" duration-ms="4990" started-at="2022-01-07T16:20:26 IST" finished-at="2022-01-07T16:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_new_customer1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="getResult" is-config="true" duration-ms="0" started-at="2022-01-07T16:20:31 IST" finished-at="2022-01-07T16:20:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_new_customer1 status=SUCCESS method=Addnew_customer.Add_new_customer1()[pri:4, instance:Nopcommerce_test.Addnew_customer@30b8a058] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="logout()[pri:5, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="logout" duration-ms="1376" started-at="2022-01-07T16:20:31 IST" finished-at="2022-01-07T16:20:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="getResult" is-config="true" duration-ms="0" started-at="2022-01-07T16:20:33 IST" finished-at="2022-01-07T16:20:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logout status=SUCCESS method=Addnew_customer.logout()[pri:5, instance:Nopcommerce_test.Addnew_customer@30b8a058] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="closeApp" is-config="true" duration-ms="2771" started-at="2022-01-07T16:20:33 IST" finished-at="2022-01-07T16:20:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Nopcommerce_test.Addnew_customer@30b8a058]" name="endReport" is-config="true" duration-ms="75" started-at="2022-01-07T16:20:35 IST" finished-at="2022-01-07T16:20:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Nopcommerce_test.Addnew_customer -->
+    </test> <!-- edgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

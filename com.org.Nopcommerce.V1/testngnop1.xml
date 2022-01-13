@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+<listener class-name="utility.Transformer_Listener"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+       <class name="Nopcommerce_test.Logintest"/>
+       <class name="Nopcommerce_test.Addnew_customer"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
